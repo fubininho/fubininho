@@ -13,10 +13,10 @@
 - 👀 I’m interested in AI applications in Sports
 - 🖥️ Currently I'm:
    - 🔺 CS undergrad student @ [Universidade Federal de Minas Gerais (UFMG)](https://www.linkedin.com/school/ufmg/)
-   - 🇳🇱 Exchange student @ [Radboud University (RU)](https://www.linkedin.com/school/radboud-university-nijmegen/)
    - 🥅 Football Data Scientist Intern @ [srcftbl](https://www.linkedin.com/company/src-ftbl/)
    - 🧑‍🔬Resercher @ UFMG's [Sports Analytics Lab](https://twitter.com/SALab_UFMG)
 - 🔙 Formerly I was:
+   - 🇳🇱 Exchange student @ [Radboud University (RU)](https://www.linkedin.com/school/radboud-university-nijmegen/)
    - 👻 CFO and Backend Developer at @ [iJunior Soluções Digitais](https://www.linkedin.com/company/ijunior/)
    - 🏀 MLE and Backend Intern @ [newagesports](https://www.linkedin.com/company/new-age-sports/)
 
