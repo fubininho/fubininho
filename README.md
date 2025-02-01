@@ -12,8 +12,8 @@
 
 - 👀 I’m interested in AI applications in Sports
 - 🖥️ Currently I'm:
-   - 🔺 CS undergrad student @ [Universidade Federal de Minas Gerais (UFMG)](https://www.linkedin.com/school/ufmg/)
-   - 🥅 Football Data Scientist Intern @ [srcftbl](https://www.linkedin.com/company/src-ftbl/)
+   - 🔺 AI master student @ [Universidade Federal de Minas Gerais (UFMG)](https://www.linkedin.com/school/ufmg/)
+   - 🥅 Football Data Scientist @ [srcftbl](https://www.linkedin.com/company/src-ftbl/)
    - 🧑‍🔬Resercher @ UFMG's [Sports Analytics Lab](https://twitter.com/SALab_UFMG)
 - 🔙 Formerly I was:
    - 🇳🇱 Exchange student @ [Radboud University (RU)](https://www.linkedin.com/school/radboud-university-nijmegen/)
@@ -38,9 +38,9 @@
 
 📫 How to reach me:
 - Personal email: ricardofurbino@gmail.com
+- Work email: ricardo@srcftbl.com
 - Academic email: ricardofurbino@dcc.ufmg.br
 - Academic email: ricardofurbino@ufmg.br
-- Academic email: ricardo.furbino@ru.nl
 
 🗣️ Languages:
 - 🇧🇷 Português
